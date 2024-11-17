@@ -4,5 +4,4 @@ scipy
 pandas
 pillow
 numpy
-Python
 
